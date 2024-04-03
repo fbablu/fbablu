@@ -2,7 +2,7 @@
 
 **`Tech Consultant (Designer/Developer/Generalist)`**
 
-CS + Math @ Vanderbilt University, Class of 2026. I love thinking, creating, and realizing solutions to all sorts of problems, big or small.
+CS + Math @ Vanderbilt University, Class of 2026. I love creating and realizing solutions to all sorts of problems, big or small.
 
 
    <p align="center">
