@@ -8,6 +8,6 @@ coding
 c/c++, swift, python, r
   
 stuff  
-i like lifting, films, nature, design, talking :)
+i like lifting, films, nature, design, and talking :)
 
 [fbablu.github.io](https://fbablu.github.io/)
