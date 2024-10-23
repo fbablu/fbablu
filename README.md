@@ -2,7 +2,7 @@
 
 school  
 vanderbilt university  '26  
-cs, math, medicine, health, and societies  
+cs + math  
   
 coding  
 c/c++, swift, python, r
