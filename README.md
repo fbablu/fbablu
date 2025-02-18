@@ -5,7 +5,7 @@ vanderbilt university  '26
 cs + math + medicine, health, and society
   
 coding  
-c/c++, swift, python, r
+typescript, c/c++, python, swift
   
 stuff  
 i like lifting, films, nature, design, and talking :)
