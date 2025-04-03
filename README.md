@@ -1,6 +1,5 @@
 # fardeen bablu - [website](https://fbablu.github.io/)
 
-vanderbilt university  '26
-cs + math + public health
+vanderbilt '26 >> cs + math + public health
 
 i like lifting, films, nature, design, and talking :)
