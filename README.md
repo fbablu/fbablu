@@ -1,13 +1,6 @@
-# fardeen bablu
+# fardeen bablu - [website](https://fbablu.github.io/)
 
-school  
-vanderbilt university  '26  
-cs + math + medicine, health, and society
-  
-coding  
-typescript, c/c++, python, swift
-  
-stuff  
+vanderbilt university  '26
+cs + math + public health
+
 i like lifting, films, nature, design, and talking :)
-
-[fbablu.github.io](https://fbablu.github.io/)
